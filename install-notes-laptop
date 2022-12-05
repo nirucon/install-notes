@@ -1,0 +1,4 @@
+# laptop lid dock
+/etc/systemd/logind.conf
+HandleLidSwitchDocked ignore
+systemctl kill -s HUP systemd-logind
