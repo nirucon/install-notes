@@ -2,3 +2,6 @@
 /etc/systemd/logind.conf
 HandleLidSwitchDocked ignore
 systemctl kill -s HUP systemd-logind
+
+#lunarvim lvim
+https://www.lunarvim.org/
